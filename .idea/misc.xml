@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/activity_join.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/activity_mainscreen.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/activity_ppt_exam.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/activity_team_login.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/app_bar_mainscreen.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/careerawards.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/careerawards_lv.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/careercert.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/careercert_lv.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/careerlang.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/careerlang_lv.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/content_mainscreen.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/editcareer.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/frag1.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/frag2.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/frag3.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/frag5.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/frag6.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/fragment_date_picker.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/fragment_gallery.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/fragment_home.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/fragment_slideshow.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/nav_header_mainscreen.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/new_home.xml" value="0.3651041666666667" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/pofollist_in_lv.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/layout/settingmypage.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio/project/doyaahrhs/doyaa/app/src/main/res/menu/mainscreen.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/activity_ppt_exam.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/activity_team_login.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/app_bar_mainscreen.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/career_check.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerawards.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerawards_lv.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerawards_lv_input.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careercert.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careercert_lv.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careercert_lv_input.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careercert_search.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerintern.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerintern_lv.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerintern_lv_input.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerintroduce.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerlang.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerlang_lv.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerlang_lv_input.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/content_mainscreen.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/editcareer.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/frag1.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/frag2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/frag3.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/frag4.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/frag5.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/frag6.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/pofo_llist_tem.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/pofollist_in.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/pofollist_in_lv.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/popollist_not.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/settingmypage.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/settingpage.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/menu/activity_main_drawer.xml" value="0.36614583333333334" />
+        <entry key="..\:/Download/AndroidStudioProjects/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/menu/mainscreen.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/activity_join.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/activity_team_login.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/career_check.xml" value="0.1578125" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerawards.xml" value="0.1578125" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerawards_lv.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careercert.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careercert_lv.xml" value="0.176" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careercert_lv_copy.xml" value="0.264" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careercert_lv_input.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careercert_search.xml" value="0.1578125" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerintern_lv.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/careerlang_lv.xml" value="0.1578125" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/editcareer.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/frag1.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/frag2.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/pofo_llist_tem.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/settingmypage.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/gjaischool-53/AndroidStudioProjects/napo_final/doyaahrhs/doyaa/app/src/main/res/layout/settingpage.xml" value="0.19067028985507245" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

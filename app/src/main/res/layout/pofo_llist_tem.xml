@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CareerAwards_Main">
+
+
+    <ScrollView
+        android:layout_width="409dp"
+        android:layout_height="601dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="202dp"
+                android:layout_height="94dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.497"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/project_img0" />
+
+            <TextView
+                android:id="@+id/categoryTxt1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="92dp"
+                android:text="BEST"
+                android:fontFamily="@font/dalseo"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="@+id/imageView"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.066"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <HorizontalScrollView
+                android:id="@+id/horizontal1"
+                android:layout_width="409dp"
+                android:layout_height="206dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/categoryTxt1"
+                app:layout_constraintVertical_bias="0.068">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+
+                    <ImageButton
+                        android:id="@+id/img4"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:srcCompat="@drawable/slideex" />
+
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/categoryTxt2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="24dp"
+                android:text="전체 템플릿"
+                android:fontFamily="@font/dalseo"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                app:layout_constraintStart_toStartOf="@id/categoryTxt1"
+                app:layout_constraintTop_toBottomOf="@+id/horizontal1" />
+
+            <HorizontalScrollView
+                android:id="@+id/horizontal2"
+                android:layout_width="409dp"
+                android:layout_height="206dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/categoryTxt2"
+                app:layout_constraintVertical_bias="0.068">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+
+                    <ImageButton
+                        android:id="@+id/img6"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="5dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:srcCompat="@drawable/project_img6" />
+
+                    <ImageButton
+                        android:id="@+id/img7"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toEndOf="@id/img6"
+                        app:layout_constraintTop_toTopOf="@id/img6"
+                        app:srcCompat="@drawable/project_img7" />
+
+                    <ImageButton
+                        android:id="@+id/img8"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toEndOf="@id/img7"
+                        app:layout_constraintTop_toTopOf="@id/img7"
+                        app:srcCompat="@drawable/project_img8" />
+
+                    <ImageButton
+                        android:id="@+id/img9"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toEndOf="@id/img8"
+                        app:layout_constraintTop_toTopOf="@id/img8"
+                        app:srcCompat="@drawable/project_img9" />
+
+                    <ImageButton
+                        android:id="@+id/img10"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toEndOf="@id/img9"
+                        app:layout_constraintTop_toTopOf="@id/img9"
+                        app:srcCompat="@drawable/project_img10" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/categoryTxt3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:text="전체 템플릿2"
+                android:fontFamily="@font/dalseo"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                app:layout_constraintStart_toStartOf="@id/categoryTxt2"
+                app:layout_constraintTop_toBottomOf="@+id/horizontal2" />
+
+            <HorizontalScrollView
+                android:id="@+id/horizontal3"
+                android:layout_width="409dp"
+                android:layout_height="206dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/categoryTxt3"
+                app:layout_constraintVertical_bias="0.068">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+
+                    <ImageButton
+                        android:id="@+id/img11"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="5dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:srcCompat="@drawable/project_img11" />
+
+                    <ImageButton
+                        android:id="@+id/img12"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toEndOf="@id/img11"
+                        app:layout_constraintTop_toTopOf="@id/img11"
+                        app:srcCompat="@drawable/project_img12" />
+
+                    <ImageButton
+                        android:id="@+id/img13"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toEndOf="@id/img12"
+                        app:layout_constraintTop_toTopOf="@id/img12"
+                        app:srcCompat="@drawable/project_img13" />
+
+                    <ImageButton
+                        android:id="@+id/img14"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toEndOf="@id/img13"
+                        app:layout_constraintTop_toTopOf="@id/img13"
+                        app:srcCompat="@drawable/project_img14" />
+
+                    <ImageButton
+                        android:id="@+id/img15"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toEndOf="@id/img14"
+                        app:layout_constraintTop_toTopOf="@id/img14"
+                        app:srcCompat="@drawable/project_img15" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </HorizontalScrollView>
+
+            <TextView
+                android:id="@+id/categoryTxt4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:text="전체 템플릿3"
+                android:fontFamily="@font/dalseo"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                app:layout_constraintStart_toStartOf="@id/categoryTxt3"
+                app:layout_constraintTop_toBottomOf="@+id/horizontal3" />
+
+            <HorizontalScrollView
+                android:id="@+id/horizontal4"
+                android:layout_width="409dp"
+                android:layout_height="206dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/categoryTxt4"
+                app:layout_constraintVertical_bias="0.068">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+
+                    <ImageButton
+                        android:id="@+id/img16"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="5dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:srcCompat="@drawable/project_img16" />
+
+                    <ImageButton
+                        android:id="@+id/img17"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toEndOf="@id/img16"
+                        app:layout_constraintTop_toTopOf="@id/img16"
+                        app:srcCompat="@drawable/project_img17" />
+
+                    <ImageButton
+                        android:id="@+id/img18"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toEndOf="@id/img17"
+                        app:layout_constraintTop_toTopOf="@id/img17"
+                        app:srcCompat="@drawable/project_img18" />
+
+                    <ImageButton
+                        android:id="@+id/img19"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toEndOf="@id/img18"
+                        app:layout_constraintTop_toTopOf="@id/img18"
+                        app:srcCompat="@drawable/project_img19" />
+
+                    <ImageButton
+                        android:id="@+id/img20"
+                        android:layout_width="200dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:onClick="handleselection"
+                        app:layout_constraintStart_toEndOf="@id/img19"
+                        app:layout_constraintTop_toTopOf="@id/img19"
+                        app:srcCompat="@drawable/project_img20" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </HorizontalScrollView>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
